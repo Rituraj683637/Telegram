@@ -13,7 +13,7 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Telegram&theme=dark" /></a></p>
-<p align="center"><a href="https://github.com/ITZ-ZAID/Telegram/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?style=social" />
+<p align="center"><a href="https://github.com/Rituraj683637/Telegram/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?style=social" />
 </p>
 
 ## How To Host
